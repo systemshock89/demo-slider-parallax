@@ -13,14 +13,14 @@
     "> 1%"
   ],
   "devDependencies": {
-    "@babel/cli": "^7.20.7",
-    "@babel/core": "^7.20.12",
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.20.2",
     "autoprefixer": "^10.4.13",
     "babel-loader": "^9.1.2",
-    "browser-sync": "^2.27.11",
-    "core-js": "^3.27.2",
-    "cssnano": "^5.1.14",
+    "browser-sync": "^2.28.3",
+    "core-js": "^3.29.0",
+    "cssnano": "^5.1.15",
     "del": "^7.0.0",
     "fontpie": "^0.3.0",
     "gulp": "^4.0.2",
@@ -37,8 +37,8 @@
     "imagemin-webp": "^8.0.0",
     "postcss": "^8.4.21",
     "postcss-sort-media-queries": "^4.3.0",
-    "sass": "^1.58.0",
-    "webpack": "^5.75.0",
+    "sass": "^1.58.3",
+    "webpack": "^5.76.0",
     "webpack-cli": "^5.0.1",
     "webpack-stream": "^7.0.0"
   },
@@ -46,6 +46,6 @@
     "@babel/polyfill": "^7.12.1",
     "modern-normalize": "^1.1.0",
     "postcss-viewport-height-correction": "^1.1.1",
-    "swiper": "^9.0.5"
+    "swiper": "^9.1.0"
   }
 }
